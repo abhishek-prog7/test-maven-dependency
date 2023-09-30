@@ -1,4 +1,4 @@
-package com.learning.jenkins;
+package com.jenkins.maven;
 
 public class messageSource {
     
